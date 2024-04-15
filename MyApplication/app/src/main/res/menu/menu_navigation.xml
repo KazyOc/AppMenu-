@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/naf_inicio"
+        android:title="Inicio"
+        android:icon="@drawable/lil_house"/>
+    <item android:id="@+id/naf_perfil"
+        android:title="Perfil"
+        android:icon="@drawable/prof_pic"/>
+    <item android:id="@+id/naf_notif"
+        android:title="Notificaciones"
+        android:icon="@drawable/notif_icon"/>
+
+
+</menu>

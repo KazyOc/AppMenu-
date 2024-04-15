@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="perfil">
+        <item>Perfil 1</item>
+        <item>Perfil 2</item>
+        <item>Perfil 3</item>
+    </array>
+</resources>
